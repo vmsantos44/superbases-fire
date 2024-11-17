@@ -1,0 +1,5 @@
+ID Funcional,Nome,Data,Entrada,Saida,Total Horas,Total Pausa,Horas Extra,Status,Observacao
+EMP001,João Silva,2024-03-01,09:00,18:00,9.00,1.00,0.00,regular,
+EMP001,João Silva,2024-03-02,Day Off,Day Off,0.00,0.00,0.00,dayoff,Weekend
+EMP001,João Silva,2024-03-03,Day Off,Day Off,0.00,0.00,0.00,dayoff,Weekend
+EMP001,João Silva,2024-03-04,08:30,17:30,9.00,1.00,0.00,regular,

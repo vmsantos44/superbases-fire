@@ -1,0 +1,35 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "time_entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "employee_id", "order": "ASCENDING" },
+        { "fieldPath": "entry_date", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "time_entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "entry_date", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "time_entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "employee_id", "order": "ASCENDING" },
+        { "fieldPath": "entry_date", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "time_entries", 
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "entry_date", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
